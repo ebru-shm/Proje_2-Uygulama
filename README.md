@@ -18,6 +18,14 @@
 
 ![Stok_Düzenle](https://github.com/ebru-shm/Proje_2-Uygulama/blob/main/resimler_/Stok_D%C3%BCzenle.PNG)
 
+### Stok silmek için Stok Sil (4) seçeneğini seçiniz.
+
+![Stok_Sil](https://github.com/ebru-shm/Proje_2-Uygulama/blob/main/resimler_/Stok_Sil.PNG)
+
+### Uygulamadan çıkış yapmak için Çıkış (5) seçeneğini seçiniz.
+
+
+
 
 
 
