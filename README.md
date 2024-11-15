@@ -14,6 +14,9 @@
 
 ![Stok_Listele](https://github.com/ebru-shm/Proje_2-Uygulama/blob/main/resimler_/Stok_Listele.PNG)
 
+### Mevcut stoğun bilgilerini güncellemek için Stok Düzenle (3) seçeneğini seçiniz.
+
+![Stok_Düzenle](https://github.com/ebru-shm/Proje_2-Uygulama/blob/main/resimler_/Stok_Listele.PNG)
 
 
 
