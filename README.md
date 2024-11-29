@@ -24,6 +24,7 @@
 
 ### Uygulamadan çıkış yapmak için Çıkış (5) seçeneğini seçiniz.
 
+
 ![exe dosyası](https://github.com/ebru-shm/Proje_2-Uygulama/blob/main/resimler_/exe%20dosyas%C4%B1.PNG)
 
 
